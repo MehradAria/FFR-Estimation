@@ -29,9 +29,9 @@ classes = Classifier.predict([Test_img])
 ```
 Arefinia, F, Aria, M, Rabiei, R, Hosseini, A, Ghaemian, A, Roshanpoor, A.
 Non-Invasive Fractional Flow Reserve Estimation using Deep Learning on Intermediate Left Anterior Descending Coronary Artery Lesion Angiography Images.
-J. 2023; 37: 5113- 5133. doi:X
+J. 2023; 37: 5113- 5133. doi: 10.1038/s41598-024-52360-5
 ```
 
 2) Please do not distribute the database or source codes to others without author authorization.
-Authors’ Email: `mehrad.aria[at]shirazu.ac.ir` (M. Aria).
+Authors’ Email: `mehrad.aria[at]outlook.com` (M. Aria).
 
